@@ -17,7 +17,7 @@ El siguiente repositorio es un proyecto pequeño que manda a llamar a una API pe
 - Teléfono
 - Lenguaje de programación
 
-Del mismo modo contara con las siguientes acciones: 
+Del mismo modo cuenta con las siguientes acciones: 
 
 - Listar los registros
 - Guardado
