@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Conección API local
+## Conección a API local
 
 El siguiente repositorio es un proyecto pequeño que manda a llamar a una API pequeña realizada en Laravel. Los campos que va a registrar el proyecto son los siguientes: 
 
@@ -24,9 +24,13 @@ Del mismo modo contara con las siguientes acciones:
 - Edición
 - Eliminación
 
-## Estructura del proyecto
+## Licencia
 
-md
+Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
+
+## Autor
+
+Román Omar Fiscal Pólito
 
 
 
