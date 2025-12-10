@@ -33,7 +33,3 @@ Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
 Román Omar Fiscal Pólito
 
 
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
