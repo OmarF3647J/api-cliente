@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Conección a API local
+## Conexión a API local
 
 El siguiente repositorio es un proyecto pequeño que manda a llamar a una API pequeña realizada en Laravel. Los campos que va a registrar el proyecto son los siguientes: 
 
